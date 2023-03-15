@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "lib": ["esnext", "dom"],
+    "noImplicitAny": true,
+    "module": "es6",
+    "jsx": "react",
+    "target": "es5",
+    "allowJs": true,
+    "moduleResolution": "Node",
+    "esModuleInterop": true
+  },
+  "files": ["./src/pages/Main/index.tsx"]
+}
